@@ -30,3 +30,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Android Studio and Gradle output
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/AndroidProjectSystem.xml
+.idea/gradle.xml
+.idea/runConfigurations.xml
+.idea/caches/
+work/

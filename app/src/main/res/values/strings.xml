@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tenant Management System</string>
+    <string name="login_title">TENANT MANAGEMENT SYSTEM</string>
+    <string name="login_subtitle">Log in to continue</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="help_link">Need help? Visit our website</string>
+    <string name="register_title">Create an account</string>
+    <string name="full_name_hint">Full name</string>
+    <string name="register_button">REGISTER</string>
+    <string name="login_link">Already have an account? Log in</string>
+    <string name="tenant_name_label">Tenant Name</string>
+    <string name="tenant_name_hint">Enter tenant name</string>
+    <string name="phone_label">Phone Number</string>
+    <string name="phone_hint">Enter phone number</string>
+    <string name="rent_hint">Enter Rent Amount</string>
+    <string name="save_button">SAVE</string>
+    <string name="call_button">CALL TENANT</string>
+    <string name="share_button">SHARE</string>
+    <string name="pay_rent_button">MARK RENT PAID</string>
+    <string name="saved_tenant_hint">Saved tenant will appear here</string>
+</resources>
